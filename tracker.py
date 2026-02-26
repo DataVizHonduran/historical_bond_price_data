@@ -36,7 +36,7 @@ ETF_CONFIG = {
 }
 
 # Database configuration
-DB_PATH = 'data/etf_holdings.db'
+DB_PATH = 'data/etf_holdings_2026.db'
 DATA_DIR = 'data'
 
 # ============================================================================
